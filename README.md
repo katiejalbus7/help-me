@@ -1,2 +1,3 @@
 # help-me
-cse232
+a bit about yourself.
+#I wrote a thing
